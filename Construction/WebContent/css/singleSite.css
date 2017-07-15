@@ -1,0 +1,22 @@
+/*
+ *rightFrame主要内容样式---工地简介，现场图片，BIM
+ */
+
+.wrapper{
+	border:3px solid #418FD7;
+	background-image:url(../images/content/content-backimage.jpg);
+}
+.container{
+	padding-left:80px;
+	padding-right:80px;
+	padding-top:60px;
+}
+.btn-space{
+	letter-spacing:1px;
+	font-weight: bold;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+.panel-primary{
+	width:250px;
+}

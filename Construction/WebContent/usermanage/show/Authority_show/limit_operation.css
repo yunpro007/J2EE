@@ -1,0 +1,71 @@
+.main-body{
+	width:100%;
+	height:100%;
+	margin:0px  auto;
+	background-size:100%;
+	background:url(images/login_bg.jpg) no-repeat;
+}
+
+.container{
+	width:40%;
+	margin:10% 40%;
+	
+}
+
+.top-box{
+	width:100%;	
+}
+span{
+	color:#FFF;
+	font-size:20px;
+}
+
+.modle-select{
+	font-size:18px;
+	width:320px;
+	margin:auto 30px;
+}
+
+.select-box{
+	margin:10px;
+	
+}
+
+label{
+	color:#DEDEDE;
+}
+
+.middle-box{
+	margin:2px auto;
+}
+
+.bottom-box{
+	margin:10px auto;
+}
+
+.m_btn1{
+	width:50px;
+	margin-left:32%;
+	color:#DEDEDE;
+	background:#548FC9;
+	font-size:10px;
+}
+.m_btn1:hover{
+	margin-left:32%;
+	color:#DEDEDE;
+	background:#59A7D4;
+	font-size:10px;
+}
+
+.m_btn2{
+	width:50px;
+	color:#DEDEDE;
+	margin-left:4%;
+	background:#548FC9;
+}
+.m_btn2:hover{
+	color:#FFF;
+	margin-left:4%;
+	background:#59A7D4;
+	font-size:10px;
+}

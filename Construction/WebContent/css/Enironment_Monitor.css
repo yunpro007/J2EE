@@ -1,0 +1,35 @@
+body{
+	background:gray; 
+	margin:0px;
+	padding:0px;
+	background-color:#F0F0F0 ;
+}
+.header-content{
+	margin-top:-6px;
+	background-color:#49A0DD ;
+	width:100%;
+	padding:5px 10px;
+}
+.header-label{
+	font-family: "微软雅黑";
+	font-size:14px;
+	color:#FFFFFF;
+	
+}
+button.query{
+	width:65px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+    border:hidden;
+    height:26px;
+    background-color: #548FC9;
+    color:white;
+    cursor:pointer; 
+}
+.equipment_class{
+	height:26px;
+	line-height: 28px;
+	border-radius: 3px;
+	border-color:#49A0DD  ;
+	width:150px;
+}

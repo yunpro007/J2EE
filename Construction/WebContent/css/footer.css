@@ -1,0 +1,17 @@
+/*
+ * 页脚样式
+ */
+body{margin:0}
+#footer{
+	background-color: #4588C8;
+	text-align: center;
+	vertical-align: middle;
+	font-family: "微软雅黑";
+	color:#FFFFFF;
+	height:40px;
+    padding-top:10px;
+	width:100%;
+	border-top-color:#0D3773 ;
+	border-top-width: 3px;
+	border-top-style: solid;
+}

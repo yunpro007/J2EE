@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/Enironment_Monitor.css=UTF-8
+encoding//WebContent/css/content-header.css=UTF-8
+encoding//WebContent/css/left-nav.css=UTF-8
+encoding//WebContent/css/main_list.css=UTF-8
+encoding//WebContent/css/singleSite.css=UTF-8
+encoding//src/com/ql/dao/SiteDao.java=UTF-8
+encoding//src/com/ql/filter/EncodeFilter.java=UTF-8
+encoding//src/com/ql/web/AcceptanceServlet.java=gbk
+encoding//src/com/ql/web/ProgressServlet.java=UTF-8
+encoding//src/com/ql/web/SiteServlet.java=UTF-8
+encoding/<project>=GBK

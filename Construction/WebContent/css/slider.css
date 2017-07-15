@@ -1,0 +1,20 @@
+/*
+ * 左侧菜单切换样式
+ */
+body{margin:0}
+.slider_left{
+	display:none;
+	background-image:url(../images/slider/slider-back.png) ;
+	/*background-color: #BFDBF1;*/
+	height:600px;
+	padding-top: 220px;
+	width:20px;
+}
+.slider_right{
+	display:block;
+	background-image: url(../images/slider/slider-back.png);
+	/*background-color: #BFDBF1;*/
+	height:600px;
+	padding-top: 220px;
+	width:20px;
+}

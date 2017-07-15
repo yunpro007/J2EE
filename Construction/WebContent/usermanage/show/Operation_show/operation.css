@@ -1,0 +1,65 @@
+.welcome-body{
+	width:100%;
+	height:100%;
+	margin:0px  auto;
+	background-size:100%;
+	background:url(images/login-bg.jpg) no-repeat;
+}
+
+#container{
+	width:30%;
+	margin:8% 40%;
+	
+}
+
+.form{
+	width:100%;
+	height:100%;
+}
+
+.form-body{
+	width:100%;
+}
+
+.typ{
+	width:100%;
+	margin-top:10%;
+	color:#C0C0C0;
+	font-weight:bold;
+	font-size:20px;
+}
+.login-load{
+	color:#FFF;
+	font-weight:bold;
+	font-size:40px;
+	margin-left:5%;
+}
+
+.manage{
+	width:100%;
+	margin-top:5%;
+
+}
+
+.user-manage{
+	width:100%;
+	margin-top:0%;
+}
+ul > li{
+	width:100%;
+	height:20px;
+	margin:8% 5%;
+	color:#FFF;
+	font-weight:bold;
+	font-size:30px;
+}
+
+a{
+	text-align:center;
+	color:#FFF;
+}
+
+a:hover{
+	text-align:center;
+	color:#61FF99;
+}

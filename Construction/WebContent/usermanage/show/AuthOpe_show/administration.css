@@ -1,0 +1,36 @@
+.main-body{
+	width:100%;
+	height:100%;
+	margin:0px  auto;
+	background-size:110%;
+	background:url(images/limit.jpg) no-repeat;
+}
+.container{
+	width:40%;
+	margin:5% 55%;
+	
+}
+
+.top-box{
+	width:100%;
+	margin-left:5% ;
+	margin-top:3%;
+	color:#FFF;
+	font-size:30px;
+}
+
+.middle-box{
+	width:100%;
+	margin:auto 6%;
+	color:#FFF;
+	font-size:30px;
+}
+
+a{
+	color:#FFF;
+}
+
+a:hover{
+	font-size:30px;
+	color:#7DCB3D;
+}
